@@ -1,4 +1,4 @@
-- 👋 Hola, I’m Toritse you can call me Tori
+- 👋 Hola, I’m Toritse but you can call me Tori
 - 👀 I’m interested in finance and data analysis 
 - 🌱 I currently use Excel, SAP, Power Bi, SQL in simplifying complex business problems
 - 💞️ I’m open to Finance and business analysis roles and collaborations on data analysis and financial analysis projects
